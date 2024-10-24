@@ -1,0 +1,14 @@
+name: "Netherite Sword"
+max_level: 10
+upgrades: 
+  - 1 
+  - 2 
+  - 3 
+  - 4 
+  - 5
+customModelData:
+  1: 2000010
+  2: 2000010
+  3: 2000010
+  4: 2000010
+  5: 2000010

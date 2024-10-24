@@ -1,0 +1,16 @@
+1:
+  additional_damage: 2.0
+  additional_speed: 0.1
+  upgrade_item: "BOOK"
+2:
+  additional_damage: 3.0
+  additional_speed: 0.2
+  upgrade_item: "BOOK"
+3:
+  additional_damage: 4.0
+  additional_speed: 0.3
+  upgrade_item: "BOOK"
+4:
+  additional_damage: 5.0
+  additional_speed: 0.4
+  upgrade_item: "BOOK"

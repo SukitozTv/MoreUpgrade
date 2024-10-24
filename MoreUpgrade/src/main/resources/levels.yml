@@ -1,0 +1,55 @@
+1:
+  additional_damage: 12.0
+  additional_speed: 1.8
+  additional_armor: 4
+  additional_toughness: 4
+  upgrade_item: 
+    name: "Books for upgrades"
+    material: "BOOK"
+    material_customModelData: 1001
+  fail_chance: 0.35 # 20% chance of failure
+  chance_status: 100.0 # โอกาศตีติดพิษ
+2:
+  additional_damage: 16.0
+  additional_speed: 2.0
+  additional_armor: 4
+  additional_toughness: 4
+  upgrade_item: 
+    name: "Books for upgrades"
+    material: "BOOK"
+    material_customModelData: 1002
+  fail_chance: 0.30 # 30% chance of failure
+  chance_status: 0.10 # โอกาศตีติดพิษ
+3:
+  additional_damage: 20.0
+  additional_speed: 2.2
+  additional_armor: 4
+  additional_toughness: 4
+  upgrade_item: 
+    name: "Books for upgrades"
+    material: "BOOK"
+    material_customModelData: 1003
+  fail_chance: 0.25 # 20% chance of failure
+  chance_status: 0.10 # โอกาศตีติดพิษ
+4:
+  additional_damage: 24.0
+  additional_speed: 2.4
+  additional_armor: 4
+  additional_toughness: 4
+  upgrade_item: 
+    name: "Books for upgrades"
+    material: "BOOK"
+    material_customModelData: 1004
+  fail_chance: 0.20 # 20% chance of failure
+  chance_status: 0.10 # โอกาศตีติดพิษ
+5:
+  additional_damage: 28.0
+  additional_speed: 2.6
+  additional_armor: 4
+  additional_toughness: 4
+  upgrade_item: 
+    name: "Books for upgrades"
+    material: "BOOK"
+    material_customModelData: 1005
+  fail_chance: 0.15 # 20% chance of failure
+  chance_status: 0.10 # โอกาศตีติดพิษ

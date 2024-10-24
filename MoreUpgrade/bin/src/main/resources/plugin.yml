@@ -1,0 +1,4 @@
+name: MoreUpgrade
+version: 1.0
+main: me.flukky.MoreUpgrade
+api-version: 1.21
